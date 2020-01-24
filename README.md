@@ -1,4 +1,4 @@
-Pizza Guard
+# Pizza-Guard
 
 Download and install the exe file in the following link to play the game!
 
